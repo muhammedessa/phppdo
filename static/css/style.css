@@ -1,0 +1,16 @@
+ 
+.uk-grid > * {
+    padding : 6%;
+}
+ 
+.mycolor{
+    color:red;
+    font-size:25px;
+}
+
+
+ .uk-first-column {
+
+    width: 100%;
+}
+ 
